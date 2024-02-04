@@ -9,7 +9,7 @@ Tech Stack:
 - Axios
 - JSearch API
 
-![jobs](https://github.com/gabhiinav/NativeJobs/assets/91845898/a42a82ba-9cfe-47bf-ae99-17fc84c2ad56)
+![jobs](https://github.com/gabhiinav/NativeJobs/assets/91845898/479615bc-116c-4ad2-b12b-02b5ed0b5e76)
 
 # References
 
